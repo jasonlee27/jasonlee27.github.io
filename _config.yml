@@ -1,4 +1,4 @@
-title: Your awesome title
+title: JasonLee Github Page
 author: jasonlee27
 email: leej941@gmail.com
 baseurl: ''
@@ -23,14 +23,14 @@ plainwhite:
   portfolio_image: "assets/profile_pic1.jpg" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   condensed_mobile:
-    # - home
+    - home
     - page
     - post
   navigation:
-    - title: My Work
-      url: "/my-work"
+    # - title: My Work
+    #   url: "/my-work"
     - title: Resume
-      url: "/resume"
+      url: "/resume/assets/resume_jaeseonglee.pdf"
   # generate social links in footer
   social_links:
     instagram: jason.lee27
@@ -57,7 +57,7 @@ plainwhite:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
+# header_pages:
 # - about.md
 
 # Build settings
