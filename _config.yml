@@ -15,7 +15,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: dotJason (Jason Lee)
-  disqus_shortname: dotJason
+  disqus_shortname: "jasonlee27-github-io"
   tagline: Computer Science Research Assistant, Developer
   bio: "I am a graduate research assistant in the Department of Computer Science at the University of Texas at Dallas.  Currently , I am working with Dr.Wei Yang and Dr.Shiyi Wei.  My research interests are in Machine Learning (ML), Natural Language Processing (NLP) and
 software testing."
