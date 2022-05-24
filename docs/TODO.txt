@@ -1,0 +1,9 @@
+
+- make my profile pic in round outline and transparent
+
+- make post with text box
+
+- make post have reply box
+
+
+==========
