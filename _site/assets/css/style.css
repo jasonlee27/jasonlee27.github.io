@@ -426,7 +426,7 @@ main .about .about-header .about-title { display: flex; flex-direction: column; 
 
 .navigation ul li:last-child a { border-bottom: 0; }
 
-.navigation ul a { display: block; font-family: Raleway; text-align: center; padding: 1rem 0; text-decoration: none; border-bottom: 1px solid #aaa; }
+.navigation ul a { display: block; font-family: Raleway; color: #3c9ae8; font-weight: bold; text-align: center; padding: 1rem 0; text-decoration: none; border-bottom: 1px solid #aaa; }
 
 @media screen and (max-width: 768px) { .navigation ul a { padding: 2rem 0; } }
 
