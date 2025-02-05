@@ -1,8 +1,2 @@
-I am a graduate research assistant in the Department of Computer
-Science at the University of Texas at Dallas.  Currently , I am
-working with Dr.Wei Yang and Dr.Shiyi Wei.  My research interests are
-in machine learning (ML), natural language processing (NLP) and
-software engineering. Along with these, I have researched on
-developing ML/NLP model for evolving programming assistant tool, video
-compression scheme with computer vision model and action recognition
-model specifically.
+I am currently a graduate research assistant at the University of Texas at Dallas, working with Dr.[Gopal Gupta](https://personal.utdallas.edu/~gupta/)
+and Dr.[Shiyi Wei](https://personal.utdallas.edu/~swei/). My research interests include Explainable AI (XAI), Machine Learning (ML), Natural Language Processing (NLP), and Software Engineering (SWE). Additionally, I have explored debugging ML models in NLP, Computer Vision (CV), and SWE by analyzing and explaining their behavior. My work also involves developing ML/NLP models for various applications, such as an evolving programming assistant tool, a video compression scheme using CV models, and an action recognition system.
